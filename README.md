@@ -34,3 +34,8 @@ PS：
 - 请求参数严格区分大小写！
 - 计算签名SIGN要去掉空值，计算加密串ccbParam要加上空值
 - 建行的公钥和返回的签名是十六进制的，这个要注意
+
+
+网速慢的朋友可以在这里自行下载
+链接：https://pan.baidu.com/s/1SqOSrVIfds_XGDEV0r2AnA 
+提取码：4a7u 
